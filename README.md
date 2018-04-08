@@ -1,6 +1,6 @@
 # Remote Access Tool Trojan List - Android
 
-This repo contents all RAT trojan android for my documentation.
+This repo contents all RAT trojan android (free or paid app) for my documentation.
 
 - DroidJack
 - AndroRAT
@@ -14,4 +14,8 @@ This repo contents all RAT trojan android for my documentation.
 - KevDroid
 - columbus-trojan
 - GetSMS_Trojan_App
-- 
+- OmniRAT
+- GhostCtrl
+- Android Voyager
+- NetWire
+
