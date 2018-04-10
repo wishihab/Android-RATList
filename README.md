@@ -3,7 +3,17 @@
 This repo contents all RAT trojan android as I know so far (free or paid app) with permission used list for my documentation.
 
 - DroidJack
-  - [ ] Permission List Here
+  - Camera
+  - Storage
+  - SMS
+  - CALL
+  - Whatsapp Reader
+  - Contact
+  - Browser History
+  - App Manager
+  - GPS Location
+  - Microphone
+  
 - AndroRAT
 - SpyNote
 - AhMyth
