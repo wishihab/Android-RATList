@@ -2,7 +2,7 @@
 
 This repo contents all RAT trojan android as I know so far (free or paid app) with permission used list for my documentation.
 
-- DroidJack
+- DroidJack http://droidjack.net/features.html
   - Camera
   - Storage
   - SMS
