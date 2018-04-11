@@ -44,7 +44,7 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Get phone’s information (IMEI, WIFI MAC, PHONE CARRIER).
   - Fun Panel (Show messages, shake the phone etc)
 
-- AhMyth
+- AhMyth https://github.com/AhMyth/AhMyth-Android-RAT
   - Camera
   - Storage
   - Microphone
