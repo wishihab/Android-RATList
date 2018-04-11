@@ -30,7 +30,20 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Open an URL in the default browser
   - Do vibrate the phone
 
-- SpyNote
+- SpyNote www.google.com
+  - Bind your server APK with any other Game or App.
+  - Explore Files with full access.
+  - Read/Write Messages.
+  - Make a call, record a call and browse call logs.
+  - Read and write contact list.
+  - Capture photos and videos.
+  - Listen live conversation through mic, record mic sound live.
+  - Check browser history.
+  - Get GPS Location.
+  - Check installed apps.
+  - Get phone’s information (IMEI, WIFI MAC, PHONE CARRIER).
+  - Fun Panel (Show messages, shake the phone etc)
+
 - AhMyth
 - TheFatRAT
 - BetterAndroRAT
