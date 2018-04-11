@@ -45,6 +45,14 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Fun Panel (Show messages, shake the phone etc)
 
 - AhMyth
+  - Camera
+  - Storage
+  - Microphone
+  - Location
+  - Contact
+  - Message
+  - Call Logs
+
 - TheFatRAT
 - BetterAndroRAT
 - AndroidRAT
