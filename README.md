@@ -54,15 +54,20 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Call Logs
 
 - TheFatRAT https://github.com/Screetsec/TheFatRat
+  -
+  -
+  
 - BetterAndroRAT https://github.com/mwsrc/BetterAndroRAT
+  -
+  -
+  
 - AndroidRAT https://github.com/DesignativeDave/androrat
 - UnknownRAT www.google.com
 - android_trojan / Android Trojan https://github.com/androidtrojan1/android_trojan
 - KevDroid www.google.com
 - columbus-trojan www.google.com
-- GetSMS_Trojan_App
-- OmniRAT
-- GhostCtrl
+- OmniRAT www.google.com
+- GhostCtrl www.google.com
 - Android Voyager www.google.com
-- NetWire
+- NetWire www.google.com
 
