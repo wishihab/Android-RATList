@@ -1,6 +1,6 @@
 # Remote Access Tool Trojan List - Android
 
-This repo contents all RAT trojan android as I know so far (free or paid app) with permission used list for my documentation.
+This repo contents all RAT trojan android as I know so far (free or paid app) with permission and feature used list for my documentation.
 
 - DroidJack http://droidjack.net/features.html
   - Camera
@@ -54,8 +54,12 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Call Logs
 
 - TheFatRAT https://github.com/Screetsec/TheFatRat
-  -
-  -
+  - execute command
+  - getuid
+  - process lost
+  - sysinfo
+  - record microphone
+  - camera snap, stream, list
   
 - BetterAndroRAT https://github.com/mwsrc/BetterAndroRAT
   -
