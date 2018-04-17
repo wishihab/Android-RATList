@@ -72,6 +72,20 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
 - columbus-trojan www.google.com
 - OmniRAT www.google.com
 - GhostCtrl www.google.com
+
 - Android Voyager www.google.com
+  - Remote Android Screen
+  - Screenshot
+  - Keylogger
+  - Traffic Monitor
+  - Make as system application
+  - Lock and unlock application
+  - Hide and unhide application
+  - Remove android password
+  - Message Access
+  - Bricks the device, Anti Antivirus
+  - Self Destructive Mode
+  - Password Grabbers
+  
 - NetWire www.google.com
 
