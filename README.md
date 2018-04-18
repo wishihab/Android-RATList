@@ -62,8 +62,13 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - camera snap, stream, list
   
 - BetterAndroRAT https://github.com/mwsrc/BetterAndroRAT
-    -
-    -
+  - Remote Update & Install Application
+  - Remote WebCam
+  - Remote Microphone Record
+  - Remote File Management
+  - Remote Call & SMS
+  - Remote Device Controller
+
   
 - AndroidRAT https://github.com/DesignativeDave/androrat
   - Get contacts (and all theirs informations) 
