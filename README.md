@@ -91,6 +91,26 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
 - KevDroid www.google.com
 - columbus-trojan www.google.com
 - OmniRAT www.google.com
+  - Fully Remote Access
+  - Activity Information
+  - File Manager
+  - App Widgets
+  - Audio Information
+  - Battery Information
+  - Bluetooth Information
+  - Call Information
+  - Camera Information
+  - Configuration Information
+  - Connectivity Information
+  - Contacts Information,
+  - Device admin Information
+  - Display Information
+  - Installed Apps Information
+  - Location Information
+  - Memory Information
+  - APK Installer
+  - Call & SMS Surveillance and many more
+
 - GhostCtrl www.google.com
 
 - Android Voyager www.google.com
