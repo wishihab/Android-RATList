@@ -88,6 +88,21 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
 
 - UnknownRAT www.google.com
 - android_trojan / Android Trojan https://github.com/androidtrojan1/android_trojan
+  - shell command
+  - upload file
+  - sms dump
+  - download
+  - restart
+  - location
+  - info
+  - record mic
+  - stream
+  - sync file
+  - clear and quit
+  - storage
+  - call log
+  - history
+  - contact
 - KevDroid www.google.com
 - columbus-trojan www.google.com
 - OmniRAT www.google.com
