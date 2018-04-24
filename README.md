@@ -87,6 +87,10 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Do vibrate the phone
 
 - UnknownRAT www.google.com
+  - Storage access
+  - Android Tools such, take photo, screenshot etc
+  - Record audio
+
 - android_trojan / Android Trojan https://github.com/androidtrojan1/android_trojan
   - shell command
   - upload file
@@ -103,8 +107,10 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - call log
   - history
   - contact
+  
 - KevDroid www.google.com
 - columbus-trojan www.google.com
+
 - OmniRAT www.google.com
   - Fully Remote Access
   - Activity Information
@@ -143,4 +149,11 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Password Grabbers
   
 - NetWire www.google.com
+  - camera
+  - audio
+  - keylogger
+  - storage
+  - download upload
+  - location
+  - etc
 
