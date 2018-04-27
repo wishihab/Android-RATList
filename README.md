@@ -151,8 +151,25 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - download upload
   - location
   - etc
+  
+- rdroid https://github.com/m301/rdroid
+  - Contact
+  - System
+  - App
+  - Storage
+  - Call
+  - Message
+  - Shell
+  
+- LokiDroid www.google.com
+  - Call
+  - Contact
+  - Message
+  - Storage
+  - Location
+  - App
 
 - KevDroid www.google.com
 - columbus-trojan www.google.com
 - GhostCtrl www.google.com
-- LokiDroid www.google.com
+
