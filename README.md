@@ -170,6 +170,17 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - App
 
 - KevDroid www.google.com
+  - Installed applications
+  - Phone number
+  - Phone Unique ID
+  - Location (the application tries to switch on the GPS), this information is collected every 10 seconds, which is aggressive for this     kind of spying tool
+  - Stored contacts information (name, phone numbers, emails, photos, etc.)
+  - Stored SMS
+  - Call logs
+  - Stored emails
+  - Photos
+  - Recording calls
+
 - columbus-trojan www.google.com
 - GhostCtrl www.google.com
 
