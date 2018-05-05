@@ -187,4 +187,8 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Location (mobile triangulation)
   
 - GhostCtrl www.google.com
+  - Admin
+  - Voice record
+  - Message
+  -
 
