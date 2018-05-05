@@ -181,7 +181,7 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Photos
   - Recording calls
 
-- columbus-trojan www.google.com (cute trojan)
+- columbus-trojan https://github.com/project-columbus/trojan (cute trojan)
   - Image (front-facing camera)
   - 10-second sound clip (microphone)
   - Location (mobile triangulation)
