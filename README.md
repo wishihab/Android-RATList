@@ -190,5 +190,5 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Admin
   - Voice record
   - Message
-  -
+  - Location
 
