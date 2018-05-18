@@ -1,6 +1,6 @@
 # Remote Access Tool Trojan List - Android
 
-This repo contents all RAT trojan android as I know so far (free or paid app) with permission and feature used list for my documentation.
+This repo contents all RAT trojan android as I know so far (free or paid app) with permission and feature used list for my documentation. If you need another malware samples, here is [82 malware families old](https://sites.google.com/site/androidmalrepo/)
 
 - DroidJack http://droidjack.net/features.html
   - Camera
