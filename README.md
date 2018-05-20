@@ -199,7 +199,7 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - GPS tracker !
 
 
-- TeleRAT www.google.com
+- TeleRAT and IIRAT (Telegram BOT) www.google.com
   - Contact
   - Clipboard
   - App list
