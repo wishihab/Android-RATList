@@ -209,5 +209,10 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Control Admin Screen
   - Microphone
   - Vibrate
-
+  
+- Hidden Cobra www.google.com
+  - Proxy
+  - Contact
+  - SMS
+  - Payload
   
