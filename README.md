@@ -198,3 +198,16 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - webcam snapshots (front cam & back cam)
   - GPS tracker !
 
+
+- TeleRAT www.google.com
+  - Contact
+  - Clipboard
+  - App list
+  - Camera
+  - SMS
+  - Storage
+  - Control Admin Screen
+  - Microphone
+  - Vibrate
+
+  
