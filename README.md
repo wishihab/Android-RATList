@@ -191,4 +191,10 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
   - Voice record
   - Message
   - Location
+  
+  
+- Pupy https://github.com/n1nj4sec/pupy
+  - Text to speech for Android to say stuff out loud
+  - webcam snapshots (front cam & back cam)
+  - GPS tracker !
 
