@@ -218,3 +218,19 @@ Looking for VPN free port forwarding?? Use [Ngrok](https://ngrok.com/)
   - SMS
   - Payload
   
+- Dendroid https://github.com/nyx0/Dendroid
+  - Deleting call logs
+  - Opening web pages
+  - Dialing any number
+  - Recording calls
+  - SMS intercepting
+  - Uploading images and video
+  - Opening an application
+  - Performing denial-of-service attacks
+  - Changing the command and control server
+  
+- Casperspy https://github.com/dhanumurti www.google.com
+  - Similar with dendroid
+  - Actually Botnet by dendroid
+  
+  
