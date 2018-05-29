@@ -232,5 +232,10 @@ Looking for free port forwarding without VPN or Router setting?? Use [Ngrok](htt
 - Casperspy https://github.com/dhanumurti www.google.com
   - Similar with dendroid
   - Actually Botnet by dendroid
+  - SMS
+  - Camera
+  - Mic
+  - Storage
+  - Browser open page
   
   
