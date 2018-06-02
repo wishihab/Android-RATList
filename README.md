@@ -239,4 +239,7 @@ Looking for free port forwarding without VPN or Router setting?? Use [Ngrok](htt
   - Browser open page
 
 - Joanap www.google.com
-  - 
+  - Mic
+  - botnet
+  - steal log
+  
