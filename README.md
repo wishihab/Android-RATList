@@ -32,7 +32,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Open an URL in the default browser
   - Do vibrate the phone
 
-- SpyNote www.google.com
+- SpyNote
   - Bind your server APK with any other Game or App.
   - Explore Files with full access.
   - Read/Write Messages.
@@ -71,7 +71,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Remote Call & SMS
   - Remote Device Controller
 
-- UnknownRAT www.google.com
+- UnknownRAT
   - Storage access
   - Android Tools such, take photo, screenshot etc
   - Record audio
@@ -93,7 +93,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - history
   - contact
   
-- OmniRAT www.google.com
+- OmniRAT
   - Fully Remote Access
   - Activity Information
   - File Manager
@@ -114,7 +114,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - APK Installer
   - Call & SMS Surveillance and many more
 
-- Android Voyager www.google.com
+- Android Voyage
   - Remote Android Screen
   - Screenshot
   - Keylogger
@@ -128,7 +128,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Self Destructive Mode
   - Password Grabbers
   
-- NetWire www.google.com
+- NetWire
   - camera
   - audio
   - keylogger
@@ -146,7 +146,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Message
   - Shell
   
-- LokiDroid www.google.com
+- LokiDroid
   - Call
   - Contact
   - Message
@@ -154,7 +154,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Location
   - App
 
-- KevDroid www.google.com
+- KevDroid
   - Installed applications
   - Phone number
   - Phone Unique ID
@@ -171,7 +171,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - 10-second sound clip (microphone)
   - Location (mobile triangulation)
   
-- GhostCtrl www.google.com
+- GhostCtrl
   - Admin
   - Voice record
   - Message
@@ -184,7 +184,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - GPS tracker !
 
 
-- TeleRAT and IIRAT (Telegram BOT) www.google.com
+- TeleRAT and IIRAT (Telegram BOT)
   - Contact
   - Clipboard
   - App list
@@ -195,7 +195,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Microphone
   - Vibrate
   
-- Hidden Cobra www.google.com
+- Hidden Cobra
   - Proxy
   - Contact
   - SMS
@@ -221,7 +221,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Storage
   - Browser open page
 
-- Joanap www.google.com
+- Joanap
   - Mic
   - botnet
   - steal log
