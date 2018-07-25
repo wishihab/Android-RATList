@@ -234,3 +234,10 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
 - HighRise
   - Incoming outgoing SMS
   
+- LaRAT https://github.com/c4wrd/LaRat
+  - Get messages
+  - Screenshot Functionality
+  - Camera Access
+  - Add Google form for passwords
+
+  
