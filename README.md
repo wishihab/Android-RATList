@@ -240,4 +240,11 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Camera Access
   - Add Google form for passwords
 
+- Triout Framework
+  - Record phonecall, save it, send it to C&C
+  - SMS Logs
+  - Call Logs
+  - Steal Images or Video, Camera Access
+  - Hide
   
+ 
