@@ -247,4 +247,11 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Steal Images or Video, Camera Access
   - Hide
   
+- Cerberusapp https://cerberusapp.com
+  - Storage
+  - Location
+  - Camera
+  - Admin
+  - notdeleteable
+  - more
  
