@@ -1,6 +1,6 @@
 # Remote Access Tool Trojan List - Android
 
-This repo contents all RAT trojan android as I know so far (free or paid app) with permission and feature used list for my documentation. If you need another malware samples, here is [82 malware families old google](https://sites.google.com/site/androidmalrepo/) and [android malware sample](https://github.com/fouroctets/Android-Malware-Samples)
+This repo contents all RAT trojan android as I know so far (free or paid app) with permission and feature used list for my documentation.
 
 Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
 
