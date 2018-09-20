@@ -255,3 +255,13 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - notdeleteable
   - more
  
+- Pegasus
+  - Storage
+  - Mic
+  - Screenshot
+  - Calender
+  - Instant Messaging
+  - Contact & Call & SMS & Mail
+  - Browser History
+  - Device Setting
+  - Location
