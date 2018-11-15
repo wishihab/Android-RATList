@@ -265,3 +265,36 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Browser History
   - Device Setting
   - Location
+  
+- Adobot https://github.com/adonespitogo/AdoBot
+  - Realtime command execution
+  - Schedule commands
+  - Hidden app icon (stealth mode)
+  - Fetch SMS in
+  - Fetch call logs
+  - Fetch contacts
+  - Send SMS command
+  - Forward received/sent SMS
+  - etc
+  
+- Adroid Spy App https://github.com/abhinavsuthar/Android_Spy_App
+  - Contact
+  - Logs
+  - SMS
+  - Location
+  - Photos
+  - Etc
+  
+- SpyApp Client https://github.com/ghazikr/SpyAppClient
+  - Notification Listener (Facebook, whatsapp, email, instagram etc)
+  - Call Logs
+  - Contact
+  - SMS
+  - Etc
+  
+- i-spy Android https://github.com/JohnReagan/i-spy-android
+  - Camera
+  - Location
+  - Storage
+  - Etc
+  
