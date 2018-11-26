@@ -147,12 +147,25 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Shell
   
 - LokiDroid
+  - SMS
   - Call
   - Contact
   - Message
   - Storage
   - Location
   - App
+  - Call logs
+  - Live Mic recording
+  - Phone's Hardware and Software details
+  - Sim details
+  - Camera
+  - Internet details and IP
+  - Open webpage
+  - Dial any number 
+  - offline commands for bots
+  - Multiple commands for multiple bots
+  - http RAT ( not required port forwarding)
+  
 
 - KevDroid
   - Installed applications
