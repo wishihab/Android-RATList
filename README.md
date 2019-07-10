@@ -297,4 +297,11 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Location
   - Storage
   - Etc
+
+- FinSpy
+  - Storage
+  - Phone information
+  - Call Sms Mms
+  - Contact
+  - GPS Location
   
