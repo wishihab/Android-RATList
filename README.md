@@ -305,4 +305,13 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Contact
   - GPS Location
   - Voip record such Skype, WeChat, Viber, LINE etc
+ 
+- Monokle
+  - GPS location
+  - Audio record, call record
+  - Screen recording
+  - Keylogger and fingerprint-device duplicate
+  - History browser and Call log, SMS Email logs, create a Call and SMS
+  - Contact and calender
+  - Shell as root (rooted/rootable)
   
