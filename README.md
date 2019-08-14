@@ -319,7 +319,9 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Bots
   - Bank and CC Logs information
   - Mail logs
-  - SMS, Call, Audio
+  - SMS, Call (+Forward), Contact, GPS, Audio
   - Monitoring all activity / logs
-  - Push to turnoff Play Protected
+  - Push to turnoff Play Protected (Disable)
+  - Download, Install, Remove Apps
+  - Lock device
   
