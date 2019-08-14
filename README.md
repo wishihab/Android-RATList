@@ -315,3 +315,11 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Contact and calender
   - Shell as root (rooted/rootable)
   
+- Cerberus Banking
+  - Bots
+  - Bank and CC Logs information
+  - Mail logs
+  - SMS, Call, Audio
+  - Monitoring all activity / logs
+  - Push to turnoff Play Protected
+  
