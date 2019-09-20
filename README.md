@@ -4,7 +4,7 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
 
 Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
 
-- DroidJack http://droidjack.net/features.html
+- DroidJack
   - Camera
   - Storage
   - SMS
@@ -239,7 +239,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - botnet
   - steal log
   
-- SHConnect https://shconnect.biz/
+- SHConnect 
   - Camera
   - Location
   - Storage
@@ -260,7 +260,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Steal Images or Video, Camera Access
   - Hide
   
-- Cerberusapp https://cerberusapp.com
+- Cerberusapp 
   - Storage
   - Location
   - Camera
@@ -338,3 +338,18 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Download, Install, Remove Apps
   - Lock device
   
+- Joker (infect many apps in playstore)
+  - SMS CALL CONTACT
+  - Storage
+  - Manipulating subscription (money)
+
+- Hawkshaw 
+  - Location
+  - Call, SMS, Contact, Phone Information
+  - Camera, Audio
+  - Storage
+  - Account Detail 
+  - Lock, Vibrate, Flash
+  - Owner Access (Boot)
+  - Inject, Install / Remove Apps
+  - Logs and Keylog (messenger, socialmedia)
