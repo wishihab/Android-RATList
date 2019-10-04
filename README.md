@@ -5,70 +5,46 @@ This repo contents all RAT trojan android as I know so far (free or paid app) wi
 Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
 
 - DroidJack
-  - Camera
+  - Camera, Microphone, Location
   - Storage
-  - SMS
-  - CALL
+  - SMS, CALL, Contact
   - Whatsapp Reader
-  - Contact
   - Browser History
   - App Manager
-  - GPS Location
-  - Microphone
   
 - AndroRAT https://github.com/DesignativeDave/androrat
-  - Get contacts (and all theirs informations)
-  - Get call logs
-  - Get all messages
-  - Location by GPS/Network
-  - Monitoring received messages in live
-  - Monitoring phone state in live (call received, call sent, call missed..)
-  - Take a picture from the camera
-  - Stream sound from microphone (or other sources..)
+  - Contact, Call logs, Call, SMS
+  - Location, Camera, Microphone
   - Streaming video (for activity based client only)
-  - Do a toast
-  - Send a text message
+  - Do a toast, message
   - Give call
   - Open an URL in the default browser
   - Do vibrate the phone
 
 - SpyNote
-  - Bind your server APK with any other Game or App.
-  - Explore Files with full access.
-  - Read/Write Messages.
-  - Make a call, record a call and browse call logs.
-  - Read and write contact list.
-  - Capture photos and videos.
+  - Bind app, Storage, Location
+  - SMS, Call, Call logs, Contact, Camera
   - Listen live conversation through mic, record mic sound live.
   - Check browser history.
-  - Get GPS Location.
   - Check installed apps.
   - Get phone’s information (IMEI, WIFI MAC, PHONE CARRIER).
   - Fun Panel (Show messages, shake the phone etc)
 
 - AhMyth https://github.com/AhMyth/AhMyth-Android-RAT
-  - Camera
-  - Storage
-  - Microphone
-  - Location
-  - Contact
-  - Message
-  - Call Logs
+  - Camera, Mircophone,
+  - Storage, Location
+  - Message, Call, Call logs, Contact
+
 
 - TheFatRAT https://github.com/Screetsec/TheFatRat
   - execute command
-  - getuid
   - process lost
-  - sysinfo
-  - record microphone
-  - camera snap, stream, list
+  - camera snap, stream, list, microphone
   
 - BetterAndroRAT https://github.com/mwsrc/BetterAndroRAT
-  - Remote Update & Install Application
-  - Remote WebCam
-  - Remote Microphone Record
-  - Remote File Management
-  - Remote Call & SMS
+  - Add and remove app
+  - Camera, Microphone, Storage
+  - Call & SMS
   - Remote Device Controller
 
 - UnknownRAT
@@ -77,51 +53,23 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Record audio
 
 - android_trojan / Android Trojan https://github.com/androidtrojan1/android_trojan
-  - shell command
-  - upload file
-  - sms dump
-  - download
-  - restart
-  - location
-  - info
-  - record mic
-  - stream
-  - sync file
-  - clear and quit
-  - storage
-  - call log
-  - history
-  - contact
+  - shell command, browser history, microphone, location, storage
+  - add and remove app
+  - call log, contact,sms dump,
+
   
 - OmniRAT
   - Fully Remote Access
-  - Activity Information
-  - File Manager
+  - File Manager, add and remove apps
   - App Widgets
-  - Audio Information
-  - Battery Information
-  - Bluetooth Information
-  - Call Information
-  - Camera Information
-  - Configuration Information
-  - Connectivity Information
-  - Contacts Information,
-  - Device admin Information
-  - Display Information
-  - Installed Apps Information
-  - Location Information
-  - Memory Information
-  - APK Installer
-  - Call & SMS Surveillance and many more
+  - Full System Information
+  - Call & SMS
 
 - Android Voyage
   - Remote Android Screen
-  - Screenshot
-  - Keylogger
-  - Traffic Monitor
+  - Screenshot, keylog, traffic monitor
   - Make as system application
-  - Lock and unlock application
-  - Hide and unhide application
+  - Lock unlock, hide unhide app
   - Remove android password
   - Message Access
   - Bricks the device, Anti Antivirus
@@ -147,21 +95,11 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Shell
   
 - LokiDroid
-  - SMS
-  - Call
-  - Contact
-  - Message
-  - Storage
-  - Location
-  - App
-  - Call logs
-  - Live Mic recording
+  - SMS, Call, Call logs, Contact, Toast, Browser
+  - Storage, Location, Microphone, Camera
   - Phone's Hardware and Software details
   - Sim details
-  - Camera
   - Internet details and IP
-  - Open webpage
-  - Dial any number 
   - offline commands for bots
   - Multiple commands for multiple bots
   - http RAT ( not required port forwarding)
@@ -171,13 +109,9 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Installed applications
   - Phone number
   - Phone Unique ID
-  - Location (the application tries to switch on the GPS), this information is collected every 10 seconds, which is aggressive for this     kind of spying tool
-  - Stored contacts information (name, phone numbers, emails, photos, etc.)
-  - Stored SMS
-  - Call logs
-  - Stored emails
-  - Photos
-  - Recording calls
+  - Location (the application tries to switch on the GPS, 10s capture location)
+  - Contact, SMS, Call logs, Call, Mails
+  - Storage, Microphone
 
 - columbus-trojan https://github.com/project-columbus/trojan (cute trojan)
   - Image (front-facing camera)
@@ -198,15 +132,11 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
 
 
 - TeleRAT and IIRAT (Telegram BOT)
-  - Contact
   - Clipboard
   - App list
-  - Camera
-  - SMS
-  - Storage
-  - Control Admin Screen
-  - Microphone
-  - Vibrate
+  - SMS, Contact
+  - Storage, Microphone, Camera
+  - Control Admin Screen, Vibrate
   
 - Hidden Cobra
   - Proxy
@@ -215,11 +145,8 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Payload
   
 - Dendroid https://github.com/nyx0/Dendroid
-  - Deleting call logs
+  - SMS, Call, Call logs,
   - Opening web pages
-  - Dialing any number
-  - Recording calls
-  - SMS intercepting
   - Uploading images and video
   - Opening an application
   - Performing denial-of-service attacks
@@ -229,9 +156,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Similar with dendroid
   - Actually Botnet by dendroid
   - SMS
-  - Camera
-  - Mic
-  - Storage
+  - Camera, Storage, Microphone
   - Browser open page
 
 - Joanap
@@ -269,33 +194,25 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - more
  
 - Pegasus
-  - Storage
-  - Mic
+  - Storage, Microhpone, Location
   - Screenshot
   - Calender
   - Instant Messaging
   - Contact & Call & SMS & Mail
   - Browser History
   - Device Setting
-  - Location
   
 - Adobot https://github.com/adonespitogo/AdoBot
   - Realtime command execution
   - Schedule commands
   - Hidden app icon (stealth mode)
-  - Fetch SMS in
-  - Fetch call logs
-  - Fetch contacts
-  - Send SMS command
-  - Forward received/sent SMS
+  - SMS, Call, Call logs, Contact
   - etc
   
 - Adroid Spy App https://github.com/abhinavsuthar/Android_Spy_App
-  - Contact
+  - Contact, Call logs, SMS
   - Logs
-  - SMS
-  - Location
-  - Photos
+  - Location, Storage
   - Etc
   
 - SpyApp Client https://github.com/ghazikr/SpyAppClient
@@ -343,11 +260,10 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Storage
   - Manipulating subscription (money)
 
-- Hawkshaw https://github.com/saksham2410/Android-RAT---Hawkshaw similar "Adroid Spy App"
-  - Location
+- Hawkshaw https://github.com/saksham2410/Android-RAT---Hawkshaw
+  - similar "Adroid Spy App"
   - Call, SMS, Contact, Phone Information
-  - Camera, Audio
-  - Storage
+  - Camera, Audio, Location, Storage
   - Account Detail 
   - Lock, Vibrate, Flash
   - Owner Access (Boot)
