@@ -269,3 +269,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Owner Access (Boot)
   - Inject, Install / Remove Apps
   - Logs and Keylog (messenger, socialmedia)
+  
+- Strandhogg
+  - Hijack Session, apps log
+  - Almost all permission
