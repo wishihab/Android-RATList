@@ -273,3 +273,8 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
 - Strandhogg
   - Hijack Session, apps log
   - Almost all permission
+  
+- TearDroid PHP https://github.com/ScRiPt1337/Teardroid-phprat
+  - Command
+  - SMS Contact Call
+  - Storage
