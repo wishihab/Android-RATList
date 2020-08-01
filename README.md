@@ -278,3 +278,9 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Command
   - SMS Contact Call
   - Storage
+
+- AndroSpy https://github.com/qH0sT/AndroSpy
+  - Camera
+  - SMS Contact Call
+  - Storage
+  - Install, Inject
