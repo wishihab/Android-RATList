@@ -287,4 +287,6 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   
  
 - GravityRAT
-  - a
+  - SMS Contact Call
+  - Storage
+  - exfiltrate
