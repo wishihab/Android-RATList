@@ -285,8 +285,15 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Storage
   - Install, Inject
   
- 
 - GravityRAT
   - SMS Contact Call
   - Storage
   - exfiltrate
+ 
+- BlueEagle jRAT
+  - similar "jRAT"
+  - Call, SMS, Contact, Phone Information
+  - Camera, Audio, Location, Storage
+  - Account Detail 
+  - Owner Access (Boot)
+  - Block google protect
