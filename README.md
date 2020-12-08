@@ -12,7 +12,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Browser History
   - App Manager
   
-- AndroRAT https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT
+- AndroRAT https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT https://github.com/The404Hacking/AndroRAT
   - Contact, Call logs, Call, SMS
   - Location, Camera, Microphone
   - Streaming video (for activity based client only)
@@ -297,3 +297,18 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Account Detail 
   - Owner Access (Boot)
   - Block google protect
+  
+- TalentRAT https://github.com/honglvt/TalentRAT
+  - SMS CALL CONTACT
+  - GPS
+  - CAMERA AUDIO
+
+- WH-RAT https://github.com/wh-Cyberspace/WH-RAT (Similar with SpyNote NjRAT)
+  - 
+  
+- Mass RAT https://github.com/NYAN-x-CAT/Mass-RAT
+  - 
+  
+- HaxRAT https://github.com/Hax4us/haxRat
+  -
+  
