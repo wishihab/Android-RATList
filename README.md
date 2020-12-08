@@ -302,13 +302,17 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - SMS CALL CONTACT
   - GPS
   - CAMERA AUDIO
-
+  
 - WH-RAT https://github.com/wh-Cyberspace/WH-RAT (Similar with SpyNote NjRAT)
-  - 
-  
+  - x soon
+  - etc
+
 - Mass RAT https://github.com/NYAN-x-CAT/Mass-RAT
-  - 
-  
+  - x soon
+  - etc
+
 - HaxRAT https://github.com/Hax4us/haxRat
-  -
+  - x soon
+  - etc
+
   
