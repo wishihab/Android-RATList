@@ -1,4 +1,5 @@
 source : https://www.stratosphereips.org/blog/2020/11/10/android-mischief-rats-dataset
+note : the csv files I made from first 100 packets per pcap RAT, ex. RAT04.pcap and I created SpyMax.csv (csv value based on pcap file)
 
 Introduction
 A Remote Access Trojan (RAT) is a type of malware that allows the attacker (client) to gain control of the target’s device (server) to remotely control it. RATs are one of the most important threats nowadays since they are used as part of most attacks, from APTs to Ransomware. It is not an easy task to detect RATs in the network traffic, especially when it comes to Android RATs in phones. Why? The main problem is that there are no easy ways to look at the network traffic on our mobile devices. Our phones are much harder to protect than our computers. Even in cases where there are external network traffic analyzers, there are no good RAT detectors. To approach the problem of the lack of Android RATs detection in the network traffic, we want to help the community by creating the Android Mischief Dataset, which contains network traffic from mobile phones infected with real and working Android RATs.
