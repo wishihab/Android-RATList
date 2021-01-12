@@ -308,11 +308,16 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - etc
 
 - Mass RAT https://github.com/NYAN-x-CAT/Mass-RAT
-  - x soon
-  - etc
+  - sms call
+  - storage
+  - camera, etc
 
 - HaxRAT https://github.com/Hax4us/haxRat
-  - x soon
-  - etc
+  - storage, camera
+  - audio, etc
 
+- Rogue RAT
+  - Camera, Audio
+  - Storage, GPS
+  - Keylog, etc
   
