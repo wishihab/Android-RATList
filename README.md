@@ -323,4 +323,8 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Camera, Audio
   - Storage, GPS
   - Keylog, etc
-  
+
+- LodaRAT
+  - Camera, Microphone, Phone
+  - Storage, GPS
+  - Install, Account Credentials, etc
