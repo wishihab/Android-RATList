@@ -6,14 +6,9 @@ Interesting? Well you need to see this awesome repo https://github.com/MobSF/Mob
 
 Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
 
-
-- DroidJack
-  - Camera, Microphone, Location
-  - Storage
-  - SMS, CALL, Contact
-  - Whatsapp Reader
-  - Browser History
-  - App Manager
+| Name | Link | Permission | Port Forward | Operating System | GUI | 
+| ------------ | ------------ | ----------------------------------- | ------------ | ------------ | ------------ |
+| DroidJack |  | CAMERA, RECORD_AUDIO, ACCESS_BACKGROUND_LOCATION, READ_EXTERNAL_STORAGE, READ_SMS, READ_CALL_LOG, READ_CONTACTS, READ_LOGS, INSTALL_PACKAGES DELETE_PACKAGES, etc | ✅ | Windows, Linux, MacOS | ✅ |
   
 - AndroRAT https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT https://github.com/The404Hacking/AndroRAT
   - Contact, Call logs, Call, SMS
