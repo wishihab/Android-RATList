@@ -3,10 +3,11 @@
 This repo contents all RAT trojan android (and dataset) as I know so far (free or paid app) with permission and feature used list for my documentation.
 Interesting? Well you need to see this awesome repo https://github.com/MobSF/Mobile-Security-Framework-MobSF/
 
-
 Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
 
 
+# Note
+Please don't download the project if you won't infected by Trojan and make sure recheck before download or install from unknown source (Trojan in a Trojan??).
 
 - DroidJack
   - Camera, Microphone, Location
