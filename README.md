@@ -197,7 +197,7 @@ Please don't download the project if you won't infected by Trojan and make sure 
   - notdeleteable
   - more
  
-- Pegasus
+- Pegasus (Sample https://github.com/9aylas/Pegasus-samples)
   - Storage, Microhpone, Location
   - Screenshot
   - Calender
