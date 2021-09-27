@@ -339,5 +339,7 @@ Please don't download the project if you won't infected by Trojan and make sure 
   - Phone, Boot, Network Info
 
 - ERMAC
-  - .....
+  - SMS, CALL, CONTACT
+  - InstallApps, GetApps, Inject
+ 
   
