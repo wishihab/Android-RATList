@@ -337,4 +337,7 @@ Please don't download the project if you won't infected by Trojan and make sure 
 - StrongPity
   - GPS, Storage
   - Phone, Boot, Network Info
+
+- ERMAC
+  - .....
   
