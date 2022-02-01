@@ -333,8 +333,8 @@ Please don't download the project if you won't infected by Trojan and make sure 
 - Rafel RAT https://github.com/swagkarna/Rafel-Rat
   - GPS, Storage
   - Camera, Audio, Phone
-  - Ransomware ? (prefer to syntax of command)
-  - Browserhistory (prefer to syntax of command)
+  - Ransomware ? ([Syntax](https://github.com/swagkarna/Rafel-Rat/blob/6398b6ccb48b5039c2ddfc7441ce2adbcc550054/BlackMart/app/src/main/java/com/velociraptor/raptor/InternalService.java#L302))
+  - Browserhistory (prefer to syntax)
 
 - StrongPity
   - GPS, Storage
