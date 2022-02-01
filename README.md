@@ -333,6 +333,8 @@ Please don't download the project if you won't infected by Trojan and make sure 
 - Rafel RAT https://github.com/swagkarna/Rafel-Rat
   - GPS, Storage
   - Camera, Audio, Phone
+  - Ransomware ? (prefer to ransomware command)
+  - Browserhistory (prefer to ransomware command)
 
 - StrongPity
   - GPS, Storage
