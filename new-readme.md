@@ -10,11 +10,11 @@ Please don't download the project if you won't be infected by Trojan, make sure 
 
 | Name | GUI | OS | Camera | Mic | SMS | Contact | Call | Storage | Location | Browser | App List | Admin Control | GitHub Link | Special Feature | 
 | ----- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -------- | -- | ------ |
-| TheFatRAT | ❌ | ? | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ? | https://github.com/Screetsec/TheFatRat | ? |
-| AhMyth | ✔ | ? | ✔ | ✔ | ✔ | ✔ | ? | ✔ | ✔ | ✔ | ? | ? | https://github.com/AhMyth/AhMyth-Android-RAT | ? |
-| DroidJack | ✔ | ? | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ? | ? | Whatsapp Reader |
-| AndroRAT | ❌ | ? | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ? | https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT https://github.com/The404Hacking/AndroRAT | Streaming Video (client activity based only) |
-| SpyNote | ✔ | ? | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ? | Bind with other app and phone information |
+| TheFatRAT | ❌ | 🐧🍎💻 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ? | https://github.com/Screetsec/TheFatRat | ? |
+| AhMyth | ✔ | 🐧💻 | ✔ | ✔ | ✔ | ✔ | ? | ✔ | ✔ | ✔ | ? | ? | https://github.com/AhMyth/AhMyth-Android-RAT | ? |
+| DroidJack | ✔ | 🐧💻 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ? | ? | Whatsapp Reader |
+| AndroRAT | ❌ | 🐧💻 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ? | https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT https://github.com/The404Hacking/AndroRAT | Streaming Video (client activity based only) |
+| SpyNote | ✔ | 🐧💻 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ? | Bind with other app and phone information |
 | BetterAndroRAT | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | https://github.com/mwsrc/BetterAndroRAT | ? |
 | UnknownRAT | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? |
 | android_trojan  | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | https://github.com/androidtrojan1/android_trojan | ? |
