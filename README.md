@@ -350,3 +350,7 @@ Please don't download the project if you won't infected by Trojan and make sure 
   - Cam, Storage, Mic
   - Adb command control
   
+- BRAT (Brazilian RAT)
+  - Install and remove apps, GetApps, Inject
+  - Factory Reset
+  - Admin Control
