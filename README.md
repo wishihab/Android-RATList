@@ -344,4 +344,9 @@ Please don't download the project if you won't infected by Trojan and make sure 
   - SMS, CALL, CONTACT
   - InstallApps, GetApps, Inject
  
+- Android Spyware https://github.com/CanciuCostin/android-spyware
+  - SMS, Call, Contact, Device Information
+  - InstallApps, GetApps, Inject
+  - Cam, Storage, Mic
+  - Adb command control
   
