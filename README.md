@@ -1,6 +1,6 @@
 # Remote Access Tool Trojan List - Android
 
-This repo contents all RAT trojan android (and [Dataset](https://github.com/wishihab/Android-RAT-Dataset/)) as I know so far (free or paid app) with permission and feature used list for my documentation.
+This repo contains android trojan (and [Dataset](https://github.com/wishihab/Android-RAT-Dataset/)) as far as I know (free or paid app) with feature and permission list for my documentation.
 
 Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
 
