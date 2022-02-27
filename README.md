@@ -2,11 +2,11 @@
 
 This repo contains android trojan (and [Dataset](https://github.com/wishihab/Android-RAT-Dataset/)) as far as I know (free or paid app) with feature and permission list for my documentation.
 
-Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
+Looking for port forwarding without buying VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
 
 
 # Note
-Please don't download the project if you won't infected by Trojan and make sure recheck before download or install from unknown source (Trojan in a Trojan??).
+Please don't download the project if you won't be infected by Trojan, make sure to recheck before downloading or installing from an unknown source (Trojan in a Trojan??).
 
 - DroidJack
   - Camera, Microphone, Location
