@@ -8,7 +8,7 @@ Looking for port forwarding without buying VPN or Router setting?? Use [Ngrok](h
 # Note
 Please don't download the project if you won't be infected by Trojan, make sure to recheck before downloading or installing from an unknown source (Trojan in a Trojan??).
 
-- DroidJack
+- DroidJack [GUI]
   - Camera, Microphone, Location
   - Storage
   - SMS, CALL, Contact
@@ -16,7 +16,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Browser History
   - App Manager
   
-- AndroRAT https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT https://github.com/The404Hacking/AndroRAT
+- AndroRAT https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT https://github.com/The404Hacking/AndroRAT [GUI]
   - Contact, Call logs, Call, SMS
   - Location, Camera, Microphone
   - Streaming video (for activity based client only)
@@ -25,7 +25,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Open an URL in the default browser
   - Do vibrate the phone
 
-- SpyNote
+- SpyNote [GUI]
   - Bind app, Storage, Location
   - SMS, Call, Call logs, Contact, Camera
   - Listen live conversation through mic, record mic sound live.
@@ -34,7 +34,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Get phone’s information (IMEI, WIFI MAC, PHONE CARRIER).
   - Fun Panel (Show messages, shake the phone etc)
 
-- AhMyth https://github.com/AhMyth/AhMyth-Android-RAT
+- AhMyth [GUI] https://github.com/AhMyth/AhMyth-Android-RAT
   - Camera, Mircophone,
   - Storage, Location
   - Message, Call, Call logs, Contact
@@ -51,7 +51,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Call & SMS
   - Remote Device Controller
 
-- UnknownRAT
+- UnknownRAT [GUI]
   - Storage access
   - Android Tools such, take photo, screenshot etc
   - Record audio
@@ -62,7 +62,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - call log, contact,sms dump,
 
   
-- OmniRAT
+- OmniRAT [GUI]
   - Fully Remote Access
   - File Manager, add and remove apps
   - App Widgets
@@ -98,7 +98,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Message
   - Shell
   
-- LokiDroid
+- LokiDroid [GUI]
   - SMS, Call, Call logs, Contact, Toast, Browser
   - Storage, Location, Microphone, Camera
   - Phone's Hardware and Software details
@@ -156,7 +156,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Performing denial-of-service attacks
   - Changing the command and control server
   
-- Casperspy https://github.com/dhanumurti
+- Casperspy https://github.com/dhanumurti [GUI]
   - Similar with dendroid
   - Actually Botnet by dendroid
   - SMS
@@ -219,7 +219,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Location, Storage
   - Etc
   
-- SpyApp Client https://github.com/ghazikr/SpyAppClient
+- SpyApp Client https://github.com/ghazikr/SpyAppClient [GUI]
   - Notification Listener (Facebook, whatsapp, email, instagram etc)
   - Call Logs
   - Contact
@@ -249,7 +249,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Contact and calender
   - Shell as root (rooted/rootable)
   
-- Cerberus Banking
+- Cerberus Banking [GUI]
   - Bots
   - Bank and CC Logs information
   - Mail logs
@@ -307,7 +307,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - GPS
   - CAMERA AUDIO
   
-- WH-RAT https://github.com/wh-Cyberspace/WH-RAT (Similar with SpyNote NjRAT)
+- WH-RAT https://github.com/wh-Cyberspace/WH-RAT [GUI] (Similar with SpyNote NjRAT)
   - x soon
   - etc
 
