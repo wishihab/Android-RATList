@@ -357,7 +357,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Factory Reset
   - Admin Control
   
-- Nivistealer (web steal based - allow/permission interaction)
+- Nivistealer (web steal based - allow/permission interaction) https://github.com/swagkarna/Nivistealer
   - IP, GPS, Device information
   - Camera, steal clipboard
   - set phishing site
