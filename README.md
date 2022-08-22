@@ -356,3 +356,9 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Install and remove apps, GetApps, Inject
   - Factory Reset
   - Admin Control
+  
+- Nivistealer (web steal based - allow/permission interaction)
+  - IP, GPS, Device information
+  - Camera, steal clipboard
+  - set phishing site
+  
