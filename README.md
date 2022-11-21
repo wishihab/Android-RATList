@@ -281,9 +281,18 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Almost all permission
   
 - TearDroid PHP https://github.com/ScRiPt1337/Teardroid-phprat
-  - Command
-  - SMS Contact Call
-  - Storage
+  - Retrieve Contact
+  - Retrieve SMS
+  - Retrieve running Services
+  - Retrieve Device Location (😟 Only work when the app is open on newer devices)
+  - Retrieve Call Logs
+  - Run Shell Command ( use findphno command in run shell command to get device phone number and use findx:pdf to find all the pdf files on the device )
+  - Change Wallpaper
+  - Send SMS
+  - Make Call
+  - Get Installed Apps
+  - Download File
+  - Read Notification
 
 - AndroSpy https://github.com/qH0sT/AndroSpy
   - Camera
