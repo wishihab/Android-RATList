@@ -361,4 +361,9 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - IP, GPS, Device information
   - Camera, steal clipboard
   - set phishing site
+    
+- DogeRAT
+  - Install and remove apps, GetApps, Inject
+  - Camera, SMS, Keylogger
+  - Admin Control etc
   
