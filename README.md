@@ -10,6 +10,19 @@ https://www.vx-underground.org/archive.html#builders
 # Note
 Please don't download the project if you won't be infected by Trojan, make sure to recheck before downloading or installing from an unknown source (Trojan in a Trojan??).
 
+- Dash [GUI] https://github.com/muneebwanee/Dash
+  - Camera
+  - Multiple Child clients
+  - Hidden app icon (stealth mode)
+  - Real-time location.
+  - Recording calls: incoming/outgoing.
+  - SMS: received/sent.
+  - Environment recording.
+  - Take pictures.
+  - Keylogger.
+  - Phishing social network.
+  - Notifications received: Whatsapp, Instagram, Messenger.
+
 - DroidJack [GUI]
   - Camera, Microphone, Location
   - Storage
