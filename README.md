@@ -395,7 +395,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Camera, Audio, Screenshot
   - Ransomware, Shell Command
   
-- IMG-RAT https://github.com/imgrat/IMG-RAT
+- IMG-RAT
   - Storage, Camera, Audio
   - SMS, Call, Contact
   - Keylogger, Shell
