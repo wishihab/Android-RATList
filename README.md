@@ -400,7 +400,8 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - SMS, Call, Contact
   - Keylogger, Shell
 
-- Nexus Trojan BOT
-  - ???
-  - ???
-  - ???
+- Nexus
+  - Storage, Camera, Audio
+  - SMS, Call, Shell, Location, Keylogger
+  - Inject Banking, Crypto app
+  - 2FA app
