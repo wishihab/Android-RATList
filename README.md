@@ -405,3 +405,8 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - SMS, Call, Shell, Location, Keylogger
   - Inject Banking, Crypto app
   - 2FA app
+  
+- Gigabud RAT
+  - Screen record, storage
+  - Install package
+  - Keylogger
