@@ -410,3 +410,8 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Screen record, storage
   - Install package
   - Keylogger
+  
+- TecSpy https://github.com/bmshifat/TecSpy
+  - SMS, Call, Contact, GPS, Storage
+  - Log notification, clipboard
+  - Admin adb command
