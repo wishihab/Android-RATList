@@ -415,3 +415,8 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - SMS, Call, Contact, GPS, Storage
   - Log notification, clipboard
   - Admin adb command
+  
+- MMRat
+  - Keylogger
+  - Screenrecord
+  - adb command
