@@ -426,3 +426,38 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Contact, SMS, Call, Storage
   - Screen Capture, Overlay
   - Proxy, Cookies Stealer
+  
+- GoldDigger
+  - 
+  - 
+  - 
+  
+- Xenomorph
+  - 
+  - 
+  - 
+  
+- GodFATHER
+  - 
+  - 
+  - 
+  
+- PixPirate
+  - 
+  - 
+  - 
+  
+- SOVA
+  - 
+  - 
+  - 
+  
+- Zanubis
+  - 
+  - 
+  - 
+
+
+
+
+
