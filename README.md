@@ -420,3 +420,9 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Keylogger
   - Screenrecord
   - adb command
+  
+- Chameleon
+  - Phishing, Keylogger
+  - Contact, SMS, Call, Storage
+  - Screen Capture, Overlay
+  - Proxy, Cookies Stealer
