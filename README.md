@@ -426,7 +426,13 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Contact, SMS, Call, Storage
   - Screen Capture, Overlay
   - Proxy, Cookies Stealer
-  
+ 
+- PounceKeys https://github.com/NullPounce/pounce-keys
+  - Hidden app icon (stealth mode)
+  - Keylogger
+  - Get phone’s information
+  - Log notification, clipboard
+    
 - GoldDigger
   - 
   - 
