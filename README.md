@@ -468,5 +468,34 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Administrator Permission, Log Stealer
   - Crypto Stealer
 
+- BingoMod
+  - SMS
+  - adb command (admin control such factory reset)
+
+- TrickMo
+  - SMS, Notification
+  - Screen, Admin Control
+  - Phishing popup
+
+- BlankBot
+  -
+  -
+  -
+
+- Vultur
+  -
+  -
+  -
+  
+- Octo2
+  -
+  -
+  -
+  
+- Medusa
+  -
+  -
+  -
+  
 
 
