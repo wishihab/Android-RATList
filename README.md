@@ -434,41 +434,39 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Log notification, clipboard
     
 - GoldDigger
-  - 
-  - 
-  - 
+  - Keylogger
+  - Screen Capture, SMS
+  - Phishing
   
 - Xenomorph
-  - 
-  - 
-  - 
+  - Crypto stealer
+  - Phishing
+  - Log, SMS
   
 - GodFATHER
-  - 
-  - 
-  - 
+  - List and Uninstall App
+  - Contact, SMS, Admin Request
+  - Phising
   
 - PixPirate
-  - 
-  - 
-  - 
+  - SMS, Contact
+  - Query All Package
+  - Phishing
+  - Password Stealer, Log
   
 - Hector / ISOON RAT
-  - 
-  - 
-  - 
+  - Storage, SMS, Contact
+  - Log system multi platform
+  - adb control
   
 - SOVA
-  - 
-  - 
-  - 
-  
+  - Log Stealer, Cookie, 2FA
+  - Phishing, List and Inject App
+    
 - Zanubis
-  - 
-  - 
-  - 
-
-
+  - SMS, Contact, Phishing
+  - Administrator Permission, Log Stealer
+  - Crypto Stealer
 
 
 
