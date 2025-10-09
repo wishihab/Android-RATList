@@ -477,25 +477,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
   - Screen, Admin Control
   - Phishing popup
 
-- BlankBot
-  -
-  -
-  -
-
-- Vultur
-  -
-  -
-  -
-  
-- Octo2
-  -
-  -
-  -
-  
-- Medusa
-  -
-  -
-  -
-  
-
-
+- BlankBot, Vultur, Octo2, Medusa (banking trojan)
+  - Fully Control Device - Admin
+  - Storage
+  - SMS, App List, 
