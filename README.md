@@ -4,11 +4,11 @@ This repository contains a list of known Android Remote Access Trojans (RATs) (b
 
 If you are looking for port forwarding without buying a VPN or changing your router settings, you can use [Ngrok](https://ngrok.com/)
 
-#Vx-Underground
+# Vx-Underground
 
 The following resource provides further archived information: https://www.vx-underground.org/archive.html#builders
 
-#IMPORTANT NOTE: Security Warning
+# IMPORTANT NOTE: Security Warning
 
 DO NOT download or install these projects unless you fully understand the risks. There is a high risk of being infected by the Trojan itself. Always exercise caution and recheck any executable files before installing them from an unknown source.
 (Remember: A Trojan inside a Trojan is possible!)
