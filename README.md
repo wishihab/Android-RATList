@@ -1,14 +1,17 @@
 # Remote Access Tool Trojan List - Android
 
-This repo contains android trojan (and [Dataset](https://github.com/wishihab/Android-RAT-Dataset/)) as far as I know (free or paid app) with feature and permission list for my documentation.
+This repository contains a list of known Android Remote Access Trojans (RATs) (both free and paid) (and [Dataset](https://github.com/wishihab/Android-RAT-Dataset/)) along with their key features and required permissions. This information is intended solely for documentation and research purposes.
 
-Looking for port forwarding without buying VPN or Router setting?? Use [Ngrok](https://ngrok.com/)
+If you are looking for port forwarding without buying a VPN or changing your router settings, you can use [Ngrok](https://ngrok.com/)
 
 #Vx-Underground
-https://www.vx-underground.org/archive.html#builders
 
-# Note
-Please don't download the project if you won't be infected by Trojan, make sure to recheck before downloading or installing from an unknown source (Trojan in a Trojan??).
+The following resource provides further archived information: https://www.vx-underground.org/archive.html#builders
+
+#IMPORTANT NOTE: Security Warning
+
+DO NOT download or install these projects unless you fully understand the risks. There is a high risk of being infected by the Trojan itself. Always exercise caution and recheck any executable files before installing them from an unknown source.
+(Remember: A Trojan inside a Trojan is possible!)
 
 - DroidJack [GUI]
   - Camera, Microphone, Location
