@@ -450,3 +450,10 @@ DO NOT download or install these projects unless you fully understand the risks.
   - Fully Control Device - Admin
   - Storage, Adb
   - SMS, App List, Phising etc
+  
+- WuzenRAT https://github.com/wuzenrat/WuzenRat (Telegram BOT RAT)
+  - Sreen Mirroring
+  - Contact, SMS, CALL
+  - Camera, Storage, Location
+  - Notification
+  - Phishing
