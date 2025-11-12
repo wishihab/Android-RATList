@@ -457,3 +457,9 @@ DO NOT download or install these projects unless you fully understand the risks.
   - Camera, Storage, Location
   - Notification
   - Phishing
+  
+- Fantasy Hub
+  - SMS, 2FA, Contact
+  - Camera, Mic Realtime
+  - Storage
+  - Permission runtime
