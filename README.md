@@ -472,3 +472,8 @@ DO NOT download or install these projects unless you fully understand the risks.
 - ZeroDayRAT
   -
   -
+
+- Darkweb PexRat
+  -
+  -
+
