@@ -459,14 +459,22 @@ DO NOT download or install these projects unless you fully understand the risks.
   - Permission runtime
  
 - Steaelite RAT
-  -
-  -
+  - Keylog
+  - Storage
+  - Ransomware
 
 - ZeroDayRAT
-  -
-  -
+  - SMS, Call, Keylog, Camera, Mic
+  - Device info
+  - Cryptostealer
 
 - Darkweb PexRat
-  -
-  -
+  - Screen
+  - Admin Role
+  - Infostealer
+
+- Arsink RAT
+  - SMS, Contact, Call
+  - GPS, Sniff, Phishing
+
 
