@@ -8,7 +8,7 @@ If you are looking for port forwarding without buying a VPN or changing your rou
 
 # Vx-Underground
 
-The following resource provides further archived information: https://www.vx-underground.org/archive.html#builders
+The following resource provides further archived information with trojan in general: [https://www.vx-underground.org/archive.html#builders](https://vx-underground.org/Builders) or access on this repo https://github.com/Cryakl/Ultimate-RAT-Collection
 
 # IMPORTANT NOTE: Security Warning
 
