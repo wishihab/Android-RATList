@@ -57,7 +57,8 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location, Browser.
 *   **Infrastructure Edge:** Designed as a multi-bot HTTP client that removes port-forwarding constraints through an asynchronous web C2 control platform.
 
-### 5. Cerberus Banking 🐕 (10 Checks)
+### 5. Cerberus Banking 🐕
+> **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Mic, SMS, Contact, Storage, Location, App List, Admin Control, Inject, Phishing.
 *   **Infrastructure Edge:** A highly destructive financial botnet engine designed for systemic mobile banking takeover. It uses a specialized commercial control panel to coordinate real-time overlay delivery across thousands of distributed zombie targets.
 
