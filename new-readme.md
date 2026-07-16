@@ -91,20 +91,20 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 
 ## 📊 Comprehensive RAT Matrix (A-Z)
 
-
 | Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **Adobot** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | https://github.com | Realtime command execution, Schedule commands |
+| **Adobot** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | https://github.com | Realtime command execution, Schedule commands |
 | **AhMyth** | ✔️ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | - |
 | **AIRAVAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com <br> https://github.com | Ransomware, Shell Command |
 | **Android Spy App**| ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Logs |
 | **Android Spyware**| ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Adb command control |
 | **android_trojan** | ❌ | 🐧💻 | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Browser history, Add/remove app |
-| **Android Voyage** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Remote Screen, Traffic monitor, System app, Lock/unlock, Hide app, Remove password, Brick device, Anti Antivirus, Self Destructive, Password Grabbers |
+| **Android Voyage** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | - | Remote Screen, Traffic monitor, System app, Lock/unlock, Hide app, Remove password, Brick device, Anti Antivirus, Self Destructive, Password Grabbers |
 | **AndroRAT** | ✔️ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com <br> https://github.com <br> https://github.com | Streaming Video, Toast, Vibrate, Open URL |
 | **AndroSpy** | ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Install, Inject |
 | **Arsink RAT** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | - | Sniff, Phishing |
 | **BetterAndroRAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Add/remove app, Remote Device Controller |
+| Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
 | **BlueEagle jRAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Phone Information, Account Detail, Owner Access (Boot), Block google protect |
 | **BRAT** | ❌ | 🐧💻 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ |  ❌ |- | Install and remove apps, Factory Reset |
 | **Casperspy** | ✔️ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Botnet by dendroid, Browser open page |
@@ -113,9 +113,10 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 | **Chameleon** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | - | Screen Capture, Overlay, Proxy, Cookies Stealer |
 | **columbus-trojan**| ❌ | 🐧💻 | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Front-facing camera, 10s sound clip, Mobile triangulation |
 | **Darkweb PexRat** | ❌ | 🐧💻 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Screen, Infostealer |
-| **Dash** | ✔️ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ❌ | https://github.com | Multiple Child clients, Environment recording, Notifications received |
+| **Dash** | ✔️ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | https://github.com | Multiple Child clients, Environment recording, Notifications received |
 | **Dendroid** | ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Opening web pages, Uploading images/video, Denial-of-service, Change C&C server |
 | **DogeRAT** | ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Install/remove apps, GetApps, Inject |
+| Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
 | **DroidJack** | ✔️ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Whatsapp Reader, Browser History, App Manager |
 | **ERMAC** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | InstallApps, GetApps |
 | **Fantasy Hub** | ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | 2FA, Realtime Cam/Mic, Permission runtime |
@@ -126,6 +127,7 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 | **GravityRAT** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Exfiltrate data |
 | **HaxRAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Audio recording |
 | **Hawkshaw** | ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | https://github.com | Account Detail, Lock, Vibrate, Flash, Owner Access (Boot), Inject, Logs/Keylog (messenger, socialmedia) |
+| Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
 | **Hector / ISOON** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Log system multi platform, adb control |
 | **Hidden Cobra** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Proxy, Payload |
 | **HighRise** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Incoming/outgoing SMS |
@@ -137,6 +139,7 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 | **Lab-RATS** | ✔️ | 🐧💻🍎 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | https://github.com | IPv6 traversal (no port forwarding), Up to Android SDK 36, OSINT reconnaissance arrays | Blackout Mode (screen blinding/fake freeze) |
 | **LaRAT** | ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | https://github.com | Add Google form for passwords |
 | **LodaRAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Install application, Account Credentials |
+| Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
 | **LokiDroid** | ✔️ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Phone details, Sim/Internet details, Offline commands, Multiple bots, http RAT |
 | **Mass RAT** | ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | - |
 | **MMRat** | ❌ | 🐧💻 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | adb command automation |
@@ -148,6 +151,7 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 | **Pegasus** | ❌ | 🐧💻🍎 | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com <br> https://github.com | Calendar, Instant Messaging, Mail, Device Setting |
 | **PounceKeys** | ❌ | 🐧💻 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | https://github.com | Phone info extraction, clipboard memory scraping |
 | **Pupy** | ❌ | 🐧💻 | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Text to speech, Webcam snapshots (front & back) |
+| Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
 | **Rafel RAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | github.com | Ransomware module, Persistence mechanisms |
 | **rdroid** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | github.com | System diagnostics |
 | **Rogue RAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Continuous telemetry |
@@ -160,15 +164,19 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 | **TalentRAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | github.com | - |
 | **TearDroid PHP** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | github.com | Running Services tracker, findphno/findx:pdf command integration, Change Wallpaper |
 | **TecSpy** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | github.com | Notification logger, Admin adb operations |
+| Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
 | **TeleRAT/IIRAT**| ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Telegram BOT integration, Control Admin Screen, Vibrate |
 | **TheFatRAT** | ❌ | 🐧💻🍎 | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | github.com | Execute command, process list optimization |
-| **Triout Framework**| ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | - | Record phonecall, Steal images/video, Hide app icon |
+| **Triout Framework**| ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | - | Record phonecall, Steal images/video, Hide app icon |
 | **UnknownRAT** | ✔️ | 🐧💻 | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Android Tools (photo, screenshot), Record audio |
 | **WH-RAT** | ✔️ | 🐧💻 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | github.com | Similar with SpyNote NjRAT |
 | **Xenomorph / GODFather / PixPirate / Sova / Zanubis / BingoMod / TrickMo / BlankBot / Vultur / Octo2 / Medusa**| ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | - | Fully Control Device, Overlay systems, Bypasses standard biometric/PIN locks |
 | **ZeroDayRAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Cryptostealer, Device info profiles |
 
+</div>
+
 ---
+
 
 ## 🔱 Project Evolution & Acknowledgments
 
