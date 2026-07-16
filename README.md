@@ -33,60 +33,59 @@ This repository serves as a comprehensive documentation directory of known **And
 
 ---
 
-## 🏆 Top 10 Advanced & Notable RAT Frameworks
+# 🏆 Top 10 Android RATs Ordered by Remote Access Capabilities
 
-While many traditional tools share identical tracking features, these 10 entries are highlighted for their sophisticated execution architecture, cross-layer persistence, or unique infrastructure mechanisms:
+The following ranking lists the top 10 Android Remote Access Trojans documented in this directory, ordered by their total number of verified functional capabilities and permission checks.
 
-### 1. Xenomorph & The Banking Tier (Sova, Octo2, Medusa) 🏦
-*   **Infrastructure Edge:** The pinnacle of Automated Transfer System (ATS) malware. They do not just steal data; they take full device control.
-*   **Persistence:** Complete abuse of **Android Accessibility Services** to simulate human touches, approve their own permissions, and auto-drain accounts.
-*   **Features:** Live overlay injection, automated 2FA token interception, real-time screen streaming, and absolute bypass of biometric/PIN blocks.
+### 1. Lab-RATS 🧪 (15 / 21 Checkmarks)
+*   **Verified Table Checks:** GUI, Camera, Mic, SMS, MMS, Contacts, Call, Call Logs, Storage, Location, Keylogger, Screenshot, Notification, Remote Takeover, Stealth Mode.
+*   **Infrastructure Edge:** Bypasses classic port-forwarding constraints entirely by utilizing native **IPv6 direct traversal pipelines**. Optimized to support modern target testing layouts all the way up to **Android SDK 36 (OneUI 8.5+)**.
+*   **Specialized Payloads:** Web-UI control panel, integrated OSINT reconnaissance arrays, active surveillance listeners, and runtime security testing telemetry frameworks.
 
-### 2. Pegasus (Decompiled & Samples) 🛰️
-*   **Infrastructure Edge:** Globally recognized as the benchmark for high-tier state surveillance and advanced zero-click capability research.
-*   **Persistence:** Deep system layer hooks that resist standard forensic sweeps, operating silently in the background.
-*   **Features:** Deep-dive extraction of end-to-end encrypted messaging databases (Signal, WhatsApp), live ambient audio tapping, and baseband configuration monitoring.
+### 2. SpyNote 👁️ (11 / 21 Checkmarks)
+*   **Verified Table Checks:** GUI, Camera, Mic, SMS, Contacts, Call, Call Logs, Storage, Location, Browser, App List.
+*   **Infrastructure Edge:** Heavily optimized for systemic sensory dominance. It captures full environmental audio loops, handles direct payload app-binding, and tracks low-level device hardware telemetry (IMEI/WIFI MAC).
+*   **Specialized Payloads:** Remote interaction "Fun Panel", live microphone streaming/recording, and persistent background persistence layers.
 
-### 3. Lab-RATS 🧪
-*   **Infrastructure Edge:** Bypasses classic port-forwarding constraints entirely by utilizing native **IPv6 direct traversal pipelines**.
-*   **Modern Compatibility:** One of the rare frameworks engineered to maintain compliance and stability up to modern **Android SDK 36 (OneUI 8.5)** layers.
-*   **Features:** Web-UI control panel, integrated OSINT reconnaissance arrays, active surveillance listeners, and runtime security testing telemetry.
+### 3. Dash 📊 (11 / 21 Checkmarks)
+*   **Verified Table Checks:** GUI, Camera, Mic, SMS, Contacts, Call, Call Logs, Location, Keylogger, Notification, Stealth Mode.
+*   **Infrastructure Edge:** Notable for its responsive multi-client management dashboard. It features automated background environment recording, launcher icon concealment, and WhatsApp/Instagram notification stream mirroring.
+*   **Specialized Payloads:** Multi-child client control array, bi-directional live call recording, and pre-built social network web phishing templates.
 
-### 4. Monokle 👁️
-*   **Infrastructure Edge:** Extremely rare modular structure utilizing highly targeted, customized cryptographic tracking profiles.
-*   **Persistence:** Executes advanced **Root privilege extraction shells** on rooted or rootable device architectures to embed directly into system partitions.
-*   **Features:** Continuous ambient room recording, fingerprint-device duplicate generation, screen layout capture, and local SMS/Call synthesis.
+### 4. AIRAVAT 🦅 (10 / 21 Checkmarks)
+*   **Verified Table Checks:** Camera, Mic, SMS, Contacts, Call, Call Logs, Browser, App List, Keylogger, Screenshot.
+*   **Infrastructure Edge:** A dual-threat exploitation framework that merges continuous tracking loops with an automated system-locking **Ransomware module** and an interactive terminal shell environment.
+*   **Specialized Payloads:** Direct filesystem storage parsing, Device Administrator permission hooks, and remote screen capture pipelines.
 
-### 5. Cerberus Banking 🐕
-*   **Infrastructure Edge:** A highly destructive commercial banking engine that pioneered modular overlay botnets.
-*   **Persistence:** Silently modifies device protection profiles, leveraging deep hooks to **forcefully disable Google Play Protect**.
-*   **Features:** Automated credential logging, SOCKS5 proxy hosting, call-forwarding injection, and remote device locking capabilities.
+### 5. Nexus 🔗 (9 / 21 Checkmarks)
+*   **Verified Table Checks:** Camera, Mic, SMS, Call, Storage, Location, Keylogger, Shell, Inject.
+*   **Infrastructure Edge:** A sophisticated modern threat focused on financial target exploitation. It automates localized crypto-wallet hijacking, web overlay phishing injection, and **2FA authenticator database harvesting**.
+*   **Specialized Payloads:** Real-time financial/banking overlay injection, 2FA database extraction, and specific hot-target crypto wallet memory access hooks.
 
-### 6. Rafel RAT 🕸️
-*   **Infrastructure Edge:** Notable for its dual-threat engineering, blending real-time spying with a built-in extortion engine.
-*   **Persistence:** Implements deep persistent startup hooks that re-initialize the malware upon boot across varied manufacturer layers.
-*   **Features:** Fully functional **Ransomware module** capable of local file encryption, accompanied by extensive browser history exfiltration.
+### 6. Rafel RAT 🕸️ (9 / 21 Checkmarks)
+*   **Verified Table Checks:** GUI, Camera, Mic, Call, Call Logs, Storage, Location, Browser, Shell.
+*   **Infrastructure Edge:** Leverages an lightweight, open-source PHP web panel that operates entirely on flat **JSON files** instead of SQL databases. It relies on aggressive **Device Administrator** privilege escalation to prevent uninstallation.
+*   **Specialized Payloads:** Fully functional **Ransomware module** for storage encryption and screen lock extortion, text-to-speech voice injection, custom ransom banner displays, and persistent background startup hooks.
 
-### 7. Dash 📊
-*   **Infrastructure Edge:** Features one of the cleanest, most responsive open-source multi-client GUI management panels available.
-*   **Persistence:** Complete, automated launcher icon concealment (Stealth Mode) paired with background persistence scripts.
-*   **Features:** Multi-child client control array, bi-directional live call recording, social web phishing templates, and notification stream mirroring (WhatsApp/Instagram).
+### 7. LokiDroid ⚡ (9 / 21 Checkmarks)
+*   **Verified Table Checks:** GUI, Camera, Mic, SMS, Contacts, Call, Call Logs, Storage, Location.
+*   **Infrastructure Edge:** Designed as an HTTP-based botnet client that uses a customized web control panel to execute multi-bot offline command parsing while completely bypassing router rules.
+*   **Specialized Payloads:** Low-level hardware/SIM metadata harvesting, multiple bot offline command parsing, and a custom HTTP Command & Control (C2) channel.
 
-### 8. Chameleon 🦎
-*   **Infrastructure Edge:** Highly sophisticated credential theft framework designed to trick advanced users.
-*   **Persistence:** Leverages custom accessibility overlays that block the user from interacting with security settings.
-*   **Features:** Dynamic input-field accessibility overlays, local SOCKS proxy establishment, browser session cookie stealers, and real-time screen capture.
+### 8. DroidJack 🔌 (9 / 21 Checkmarks)
+*   **Verified Table Checks:** GUI, Camera, Mic, SMS, Contacts, Call, Storage, Location, Browser.
+*   **Infrastructure Edge:** The historical reference baseline for Android monitoring tools. It maps complete local file directories, pulls full browser history archives, and extracts intact WhatsApp messaging databases.
+*   **Specialized Payloads:** WhatsApp database decryption assistance, active application managers, and comprehensive storage directory mapping.
 
-### 9. Nexus 🔗
-*   **Infrastructure Edge:** A modern hybrid threat merging traditional info-stealing vectors with modern financial asset targeting.
-*   **Persistence:** Deep application hooks designed to intercept and prevent uninstallation.
-*   **Features:** Real-time financial/banking overlay injection, **2FA authenticator database harvesting**, and specialized crypto-wallet access hooks.
+### 9. Monokle 🕵️ (9 / 21 Checkmarks)
+*   **Verified Table Checks:** Mic, SMS, Contacts, Call, Call Logs, Location, Browser, Keylogger, Screenshot.
+*   **Infrastructure Edge:** Highly targeted surveillance malware utilizing customized profile telemetry. It executes specialized **Root privilege extraction shells** to embed its operational hooks directly into secure system partitions.
+*   **Specialized Payloads:** Continuous ambient room recording, fingerprint-device duplicate generation, screen layout capture, and local SMS/Call synthesis.
 
-### 10. TearDroid PHP 🐘
-*   **Infrastructure Edge:** Uses a web-optimized **PHP panel structure**, removing the need for heavy desktop GUI builders and enabling flexible cloud hosting.
-*   **Persistence:** Utilizes active-window tracking techniques to sustain connectivity on stricter modern Android APIs.
-*   **Features:** Dynamic shell command pipelines (e.g., automated regex file searchers like `findx:pdf`), wallpaper manipulation, and forced SMS transmission.
-
+### 10. AhMyth 🛠️ (8 / 21 Checkmarks)
+*   **Verified Table Checks:** GUI, Camera, Mic, SMS, Contacts, Call, Call Logs, Storage.
+*   **Infrastructure Edge:** A lightweight open-source framework frequently used as an analytical baseline. It provides rapid deployment capabilities for background media exfiltration and continuous GPS polling.
+*   **Specialized Payloads:** Background media exfiltration, rapid standalone APK binding, and simple multi-threaded C2 listener routing.
 ---
 
 ## 📊 Comprehensive RAT Matrix (A-Z)
