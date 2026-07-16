@@ -37,46 +37,55 @@ This repository serves as a comprehensive documentation directory of known **And
 
 The following ranking lists the top 10 Android Remote Access Trojans documented in this directory, ordered by their total number of verified functional capabilities and permission checks.
 
-### 1. Lab-RATS 🧪 (15 / 21 Checkmarks)
-*   **Key Capabilities:** GUI, Camera, Mic, SMS, MMS, Contacts, Call, Call Logs, Storage, Location, Keylogger, Screenshot, Notification, Remote Takeover, Stealth Mode.
-*   **Focus:** Native IPv6 reverse tunnels bypassing NAT for advanced connectivity ``.
+### 1. Lab-RATS 🧪
+> **Score: 15/21 Checkmarks**
+*   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, MMS, Contact, Call, Call Logs, Storage, Location, Screenshot, Notification, Keylogger, Remote Takeover, Stealth Mode.
+*   **Infrastructure Edge:** Bypasses classic port-forwarding constraints entirely by utilizing native **IPv6 direct traversal pipelines**. Optimized to support modern target testing layouts all the way up to **Android SDK 36 (OneUI 8.5+)**.
 
-### 2. SpyNote 👁️ (12 / 21 Checkmarks)
-*   **Key Capabilities:** GUI control, App binding, Storage/Location access, SMS/Call/Call Log theft, Media (Camera/Mic) streaming, and Browser/Device info extraction.
-*   **Focus:** Comprehensive environment monitoring and stealthy binding.
+### 2. SpyNote 👁️
+> **Score: 12/21 Checkmarks**
+*   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location, Browser, App List, Notification.
+*   **Infrastructure Edge:** Heavily optimized for system-wide sensory dominance. It handles direct payload app-binding, extracts environmental audio loops, and traces hidden hardware telemetry (IMEI/WIFI MAC).
 
-### 3. Dash 📊 (12 / 21 Checkmarks)
-*   **Key Capabilities:** GUI, Camera, Multi-client support, Stealth, Location, Recording (Call/Ambient), SMS, Keylogger, Overlays, and Notification sniffing ``.
-*   **Focus:** Modern web dashboard for concurrent monitoring ``.
+### 3. Hawkshaw 🦅
+> **Score: 11/21 Checkmarks**
+*   **Verified Matrix Checks:** Camera, Mic, SMS, Contact, Call, Storage, Location, Account Detail, Lock/Vibrate/Flash, App Management, Keylogger.
+*   **Infrastructure Edge:** Optimizes persistent data pipelines and social log exfiltration points, ensuring high tracking density directly following reboot sequences.
 
-### 4. LokiDroid ⚡ (11 / 21 Checkmarks)
-*   **Key Capabilities:** GUI, SMS/Call/Log/Contact theft, Toasts, Browser, Storage, Location, and Microphone/Camera access ``.
-*   **Focus:** HTTP-based bot management with asynchronous task queuing ``.
+### 4. LokiDroid ⚡
+> **Score: 10/21 Checkmarks**
+*   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location, Browser.
+*   **Infrastructure Edge:** Designed as a multi-bot HTTP client that removes port-forwarding constraints through an asynchronous web C2 control platform.
 
-### 5. Hawkshaw 🦅 (11/ 21 Checkmarks)
-*   **Key Capabilities:** Call/SMS/Contact theft, Device info, Media (Camera/Audio), Location, Storage, Account details, Hardware manipulation, and Keylogging ``.
-*   **Focus:** Hardware manipulation (vibration, flash) and chat surveillance ``.
+### 5. AIRAVAT 🦅
+> **Score: 10/21 Checkmarks**
+*   **Verified Matrix Checks:** Camera, Mic, SMS, Contact, Call, Call Logs, Storage, App List, Screenshot, Shell.
+*   **Infrastructure Edge:** A dual-threat exploitation framework merging continuous surveillance loops with an automated system-locking **Ransomware module**.
 
-### 6. Android Spyware 🕵️ (11 / 21 Checkmarks)
-*   **Key Capabilities:** SMS/Call/Contact/Info, App management, Webview injection, Camera, Storage, Mic, and Remote ADB Control ``.
-*   **Focus:** High-density sensory exfiltration with low-level ADB control ``.
+### 6. DroidJack 🔌
+> **Score: 10/21 Checkmarks**
+*   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Storage, Location, Browser, App List.
+*   **Infrastructure Edge:** The historical reference baseline for Android monitoring tools. Maps complete local directories and captures intact WhatsApp messaging databases.
 
-### 7. Monokle 🪐 (10 / 21 Checkmarks)
-*   **Key Capabilities:** Location, Audio, Call Recording, Screen Capture, Keylogger, Browser/Log history, and Root Shell ``.
-*   **Focus:** Advanced surveillance, unique encryption, and root exploitation ``.
+### 7. Android Spyware 🕵️
+> **Score: 9/21 Checkmarks**
+*   **Verified Matrix Checks:** SMS, Call, Contact, Device Info, App List (Install Apps), App List (Get Apps), WebView Inject, Camera, Storage, Mic, ADB Command Control.
+*   **Infrastructure Edge:** Offers a dense, raw framework that focuses heavily on sensory extraction and deep background system control via automated low-level ADB shell injection.
 
-### 8. Nexus 🔗 (10 / 21 Checkmarks)
-*   **Key Capabilities:** Storage, Camera, Audio, SMS/Call, Shell, Location, Keylogger, Banking/Crypto Overlays, and 2FA scraping ``.
-*   **Focus:** Financial manipulation targeting auth apps and crypto wallets ``.
+### 8. Nexus 🔗
+> **Score: 9/21 Checkmarks**
+*   **Verified Matrix Checks:** Camera, Mic, SMS, Call, Storage, Location, Keylogger, Shell, Inject.
+*   **Infrastructure Edge:** A sophisticated threat focused on financial target exploitation, automating crypto-wallet hijacking, web overlay phishing injection, and 2FA authenticator database harvesting.
 
-### 9. KevDroid ⚙️ (10 / 21 Checkmarks)
-*   **Key Capabilities:** App/UUID theft, GPS Polling, Contacts, SMS/Calls, Mails, Storage, and Mic ``.
-*   **Focus:** Metadata harvesting and automated location/cache dumps ``.
+### 9. AhMyth 🛠️
+> **Score: 9/21 Checkmarks**
+*   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location.
+*   **Infrastructure Edge:** A lightweight open-source framework frequently used as an analytical baseline for background media exfiltration and continuous GPS polling loops.
 
-### 10. AndroRAT 🔌 (10 / 21 Checkmarks)
-*   **Key Capabilities:** GUI, Contacts, Logs, Calls, SMS, Location, Camera, Mic, and Video/UI interaction ``.
-*   **Focus:** Open-source foundation for stable socket-based, live audio/video streaming ``.
-
+### 10. BetterAndroRAT 🛠️
+> **Score: 8/21 Checkmarks**
+*   **Verified Matrix Checks:** Camera, Mic, Storage, Call, SMS, App List (Add App), App List (Remove App), Remote Controller.
+*   **Infrastructure Edge:** An optimized command-line alternative built on top of traditional AndroRAT protocols that stabilizes background socket listeners and features multi-threaded package injection mechanics.
 
 ---
 
