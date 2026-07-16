@@ -57,36 +57,34 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location, Browser.
 *   **Infrastructure Edge:** Designed as a multi-bot HTTP client that removes port-forwarding constraints through an asynchronous web C2 control platform.
 
-### 5. AIRAVAT 🦅
+### 5. Cerberus Banking 🐕 (10 Checks)
+*   **Verified Matrix Checks:** GUI, Mic, SMS, Contact, Storage, Location, App List, Admin Control, Inject, Phishing.
+*   **Infrastructure Edge:** A highly destructive financial botnet engine designed for systemic mobile banking takeover. It uses a specialized commercial control panel to coordinate real-time overlay delivery across thousands of distributed zombie targets.
+
+### 6. AIRAVAT 🦅
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** Camera, Mic, SMS, Contact, Call, Call Logs, Storage, App List, Screenshot, Shell.
 *   **Infrastructure Edge:** A dual-threat exploitation framework merging continuous surveillance loops with an automated system-locking **Ransomware module**.
 
-### 6. DroidJack 🔌
+### 7. DroidJack 🔌
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Storage, Location, Browser, App List.
 *   **Infrastructure Edge:** The historical reference baseline for Android monitoring tools. Maps complete local directories and captures intact WhatsApp messaging databases.
 
-### 7. Android Spyware 🕵️
+### 8. Android Spyware 🕵️
 > **Score: 9/21 Checkmarks**
 *   **Verified Matrix Checks:** SMS, Call, Contact, Device Info, App List (Install Apps), App List (Get Apps), WebView Inject, Camera, Storage, Mic, ADB Command Control.
 *   **Infrastructure Edge:** Offers a dense, raw framework that focuses heavily on sensory extraction and deep background system control via automated low-level ADB shell injection.
 
-### 8. Nexus 🔗
+### 9. Nexus 🔗
 > **Score: 9/21 Checkmarks**
 *   **Verified Matrix Checks:** Camera, Mic, SMS, Call, Storage, Location, Keylogger, Shell, Inject.
 *   **Infrastructure Edge:** A sophisticated threat focused on financial target exploitation, automating crypto-wallet hijacking, web overlay phishing injection, and 2FA authenticator database harvesting.
 
-### 9. AhMyth 🛠️
+### 10. AhMyth 🛠️
 > **Score: 9/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location.
 *   **Infrastructure Edge:** A lightweight open-source framework frequently used as an analytical baseline for background media exfiltration and continuous GPS polling loops.
-
-### 10. BetterAndroRAT 🛠️
-> **Score: 8/21 Checkmarks**
-*   **Verified Matrix Checks:** Camera, Mic, Storage, Call, SMS, App List (Add App), App List (Remove App), Remote Controller.
-*   **Infrastructure Edge:** An optimized command-line alternative built on top of traditional AndroRAT protocols that stabilizes background socket listeners and features multi-threaded package injection mechanics.
-
 
 ---
 
