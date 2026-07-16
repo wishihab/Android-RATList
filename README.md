@@ -33,13 +33,13 @@ Additional **archived references** and **general trojan documentation** can be f
 
 ---
 
-# 🏆 Top 10 RATs Ordered by Remote Access Capabilities
+# 🏆 Top 10 RATs Ordered by Remote Capabilities
 
-The following ranking lists the **top 10 Android Remote Access Trojans** documented in this directory, ordered by their total number of **verified functional capabilities** and **permission checks**.
+The following ranking lists the **top 10 Android Remote Access Trojans** documented in this directory, ordered by their total number of **verified functional remote capabilities**.
 
 ### 1. Lab-RATS 🧪 (Free)
 > **Score: 15/21 Checkmarks**
-*   **Verified Matrix Checks:** GUI(PC/Mobile), Camera, Mic, SMS, MMS, Contact, Call, Call Logs, Storage, Location, Screenshot, Notification, Keylogger, Remote Takeover, Stealth Mode.
+*   **Verified Matrix Checks:** GUI(PC/Mobile), Camera, Mic, SMS, MMS, Contact, Call, Call Logs, Storage, Location, Screenshot, Notification, Keylogger, Remote Takeover, Stealth Mode, and more.
 *   **Infrastructure Edge:** Bypasses classic port-forwarding constraints entirely by utilizing native **IPv6 direct traversal pipelines**. Optimized to support modern target testing layouts all the way up to **Android SDK 36 (OneUI 8.5+)**.
 
 ### 2. SpyNote 👁️ (Paid Commercial Origin)
@@ -133,7 +133,7 @@ The following ranking lists the **top 10 Android Remote Access Trojans** documen
 | **Joanap** | APT Botnet | N/A | Microphone streaming, Distributed botnet tasks, Comprehensive diagnostic and credential system log theft. |
 | **Joker** | Play Store Injector| N/A | Stealth SMS/Call/Contact extraction, Local storage access, Background premium subscription manipulation (financial theft). |
 | **KevDroid** | CLI | N/A | Installed package enumeration, Phone identification metadata (IMEI/UUID), Forced 10s GPS tracking cycles, Contact/SMS/Call/Mail scraping, Local storage harvesting, Audio mic recorder. |
-| **Lab-RATS** | Web Interface / GUI | • [K4N3CO-LABS/Lab-RATS](https://github.com/K4N3CO-LABS/Lab-RATS) | Lightweight web-controlled administration tool. Implements IPv6 traversal pipelines to bypass standard router/ISP port-forwarding requirements. Engineered to support modern operational layouts up to Android SDK 36 (OneUI 8.5). Includes active OSINT reconnaissance arrays, surveillance listeners, and runtime security testing telemetry frameworks. |
+| **Lab-RATS** | Web Interface / GUI | • [K4N3CO-LABS/Lab-RATS](https://github.com/K4N3CO-LABS/Lab-RATS) | Covert screen mirroring & control, Live camera stream/snap/record, Nightmode(Camera) Keylogging, SMS & MMS view/send, Functional app decoys, Live GPS, Ghost mechanics, Blackout mode, Self healing, Remote dialer & call record, Call logs, Live microphone stream, Contacts, Remote server restart(SMS prompt), Credential Highlighting, Storage Access, Anti-removal Sheild, Notification Sniffer (WhatsApp, Telegram etc..) |
 | **LaRAT** | CLI | • c4wrd/LaRat | Message database extraction, Remote screenshot taking, Live camera access, Google Forms phishing integration for password grabbing. |
 | **LodaRAT** | Surveillance Vector| N/A | Complete camera/microphone control, Voice call routing metrics, Local file storage traversal, GPS telemetry logging, Application installation, Saved account credential extraction. |
 | **LokiDroid** | GUI | N/A | Comprehensive SMS/Call extraction, UI manipulation (Toasts/Browser), Hardware/SIM data, HTTP C2 control layer (bypasses port-forwarding constraints), Multi-bot offline command parsing. |
