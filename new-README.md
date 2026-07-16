@@ -39,7 +39,7 @@ The following ranking lists the **top 10 Android Remote Access Trojans** documen
 
 ### 1. Lab-RATS 🧪 (Free)
 > **Score: 15/21 Checkmarks**
-*   **Verified Matrix Checks:** GUI(PC/Mobile), Camera, Mic, SMS, MMS, Contact, Call, Call Logs, Storage, Location, Screenshot, Notification, Keylogger, Remote Takeover, Stealth Mode.
+*   **Verified Matrix Checks:** GUI(PC/Mobile), Camera, Mic, SMS, MMS, Contact, Call, Call Logs, Storage, Location, Screenshot, Notification, Keylogger, Remote Takeover, Stealth Mode, and more
 *   **Infrastructure Edge:** Bypasses classic port-forwarding constraints entirely by utilizing native **IPv6 direct traversal pipelines**. Optimized to support modern target testing layouts all the way up to **Android SDK 36 (OneUI 8.5+)**.
 
 ### 2. SpyNote 👁️ (Paid Commercial Origin)
@@ -136,7 +136,7 @@ The following ranking lists the **top 10 Android Remote Access Trojans** documen
 | **Joanap** | ❌ | 🐧💻 | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Botnet, Steal log |
 | **Joker** | ❌ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Manipulating subscription (money), Play Store infection |
 | **KevDroid** | ❌ | 🐧💻 | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Installed apps, Phone number, Unique ID, Mails |
-| **Lab-RATS** | ✔️ | 🐧💻🍎 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | https://github.com | IPv6 traversal (no port forwarding), Up to Android SDK 36, OSINT reconnaissance arrays | Blackout Mode (screen blinding/fake freeze) |
+| **Lab-RATS** | ✔️ | 🐧💻🍎 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | https://github.com | IPv6 traversal, Works on Newest Android(SDK 36), Blackout Mode(screen blinding), Remote App Restart(SMS Prompt), Anti-Removal Sheild, Ghost Mechanics, Self Healing, Functional App Decoys.
 | **LaRAT** | ❌ | 🐧💻 | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | https://github.com | Add Google form for passwords |
 | **LodaRAT** | ❌ | 🐧💻 | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Install application, Account Credentials |
 | Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
@@ -147,7 +147,7 @@ The following ranking lists the **top 10 Android Remote Access Trojans** documen
 | **NetWire** | ✔️ | 🐧💻 | ✔️ | ✔️ | ❌ | ❌ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Download/Upload pipelines |
 | **Nexus** | ❌ | 🐧💻 | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | - | Inject Banking, Crypto app, 2FA app database |
 | **Nivistealer** | ❌ | 🐧💻 | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | https://github.com | IP, Web steal based, set phishing site |
-| **OmniRAT** | ✔️ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Fully Remote Access, File Manager, App Widgets, Full System Information |
+| **OmniRAT** | ✔️ | 🐧💻 | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Full Remote Access, File Manager, App Widgets, Full System Information |
 | **Pegasus** | ❌ | 🐧💻🍎 | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com <br> https://github.com | Calendar, Instant Messaging, Mail, Device Setting |
 | **PounceKeys** | ❌ | 🐧💻 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ✔️ | ❌ | https://github.com | Phone info extraction, clipboard memory scraping |
 | **Pupy** | ❌ | 🐧💻 | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com | Text to speech, Webcam snapshots (front & back) |
