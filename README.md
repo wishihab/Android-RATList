@@ -21,6 +21,8 @@ This repository serves as a comprehensive documentation directory of known **And
 
 # 🧠 Vx-Underground
 
+Additional **archived references** and **general trojan documentation** can be found here:
+
   * [Vx-Underground Builders Archive](https://vx-underground.org)
   * [Ultimate RAT Collection GitHub Repository](https://github.com)
 
