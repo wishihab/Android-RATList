@@ -2,10 +2,10 @@
 
 # Android Remote Access Trojan (RAT) Directory
 
-This repository serves as a comprehensive documentation directory of known **Android Remote Access Trojans (RATs)**, compiling free, commercial, open-source, and leaked variants alongside their core tracking payloads, features, and systemic permission requirements. 
+This repository serves as a comprehensive documentation directory of known **Android Remote Access Trojans (RATs)**, **compiling free, commercial, open-source**, and **leaked variants** alongside their core tracking payloads, features, and systemic permission requirements. 
 
 > [!IMPORTANT]
-> **Educational & Research Purpose Only:** This information is intended strictly for security researchers, malware analysts, and educational documentation. 
+> **Educational & Research Purpose Only:** This information is intended strictly for **security researchers, malware analysts**, and **educational documentation**. 
 
 ---
 
@@ -26,72 +26,70 @@ Additional **archived references** and **general trojan documentation** can be f
   * [Vx-Underground Builders Archive](https://vx-underground.org)
   * [Ultimate RAT Collection GitHub Repository](https://github.com)
 
----
-
-## 🛠️ Utility & External Archives
+### 🛠️ Utility & External Archives
 
 * **Dataset Archive:** Access the broader telemetry dataset via the [Android RAT Dataset](https://github.com).
 * **Network Testing:** If you require port forwarding without purchasing a VPN or modifying local router rules, utilize [Ngrok](https://ngrok.com). 
 
 ---
 
-## 🏆 Top 10 RATs Ordered by Remote Access Capabilities
+# 🏆 Top 10 RATs Ordered by Remote Access Capabilities
 
-The following ranking lists the top 10 Android Remote Access Trojans documented in this directory, ordered by their total number of verified functional capabilities and permission checks.
+The following ranking lists the **top 10 Android Remote Access Trojans** documented in this directory, ordered by their total number of **verified functional capabilities** and **permission checks**.
 
-### 1. Lab-RATS 🧪
+### 1. Lab-RATS 🧪 (Free)
 > **Score: 15/21 Checkmarks**
-*   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, MMS, Contact, Call, Call Logs, Storage, Location, Screenshot, Notification, Keylogger, Remote Takeover, Stealth Mode.
+*   **Verified Matrix Checks:** GUI(PC/Mobile), Camera, Mic, SMS, MMS, Contact, Call, Call Logs, Storage, Location, Screenshot, Notification, Keylogger, Remote Takeover, Stealth Mode.
 *   **Infrastructure Edge:** Bypasses classic port-forwarding constraints entirely by utilizing native **IPv6 direct traversal pipelines**. Optimized to support modern target testing layouts all the way up to **Android SDK 36 (OneUI 8.5+)**.
 
-### 2. SpyNote 👁️
+### 2. SpyNote 👁️ (Paid Commercial Origin)
 > **Score: 12/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location, Browser, App List, Notification.
 *   **Infrastructure Edge:** Heavily optimized for system-wide sensory dominance. It handles direct payload app-binding, extracts environmental audio loops, and traces hidden hardware telemetry (IMEI/WIFI MAC).
 
-### 3. Hawkshaw 🦅
+### 3. Hawkshaw 🦅 (Free)
 > **Score: 11/21 Checkmarks**
 *   **Verified Matrix Checks:** Camera, Mic, SMS, Contact, Call, Storage, Location, Account Detail, Lock/Vibrate/Flash, App Management, Keylogger.
 *   **Infrastructure Edge:** Optimizes persistent data pipelines and social log exfiltration points, ensuring high tracking density directly following reboot sequences.
 
-### 4. LokiDroid ⚡
+### 4. LokiDroid ⚡ (Free)
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location, Browser.
 *   **Infrastructure Edge:** Designed as a multi-bot HTTP client that removes port-forwarding constraints through an asynchronous web C2 control platform.
 
-### 5. Cerberus Banking 🐕
+### 5. Cerberus Banking 🐕 (Commercial Leased Botnet)
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Mic, SMS, Contact, Storage, Location, App List, Admin Control, Inject, Phishing.
 *   **Infrastructure Edge:** A highly destructive financial botnet engine designed for systemic mobile banking takeover. It uses a specialized commercial control panel to coordinate real-time overlay delivery across thousands of distributed zombie targets.
 
-### 6. AIRAVAT 🦅
+### 6. AIRAVAT 🦅 (Free)
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** Camera, Mic, SMS, Contact, Call, Call Logs, Storage, App List, Screenshot, Shell.
 *   **Infrastructure Edge:** A dual-threat exploitation framework merging continuous surveillance loops with an automated system-locking **Ransomware module**.
 
-### 7. DroidJack 🔌
+### 7. DroidJack 🔌 (Free)
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Storage, Location, Browser, App List.
 *   **Infrastructure Edge:** The historical reference baseline for Android monitoring tools. Maps complete local directories and captures intact WhatsApp messaging databases.
 
-### 8. Android Spyware 🕵️
+### 8. Android Spyware 🕵️ (Free)
 > **Score: 9/21 Checkmarks**
 *   **Verified Matrix Checks:** SMS, Call, Contact, Device Info, App List (Install Apps), App List (Get Apps), WebView Inject, Camera, Storage, Mic, ADB Command Control.
 *   **Infrastructure Edge:** Offers a dense, raw framework that focuses heavily on sensory extraction and deep background system control via automated low-level ADB shell injection.
 
-### 9. Nexus 🔗
+### 9. Nexus 🔗 (Free)
 > **Score: 9/21 Checkmarks**
 *   **Verified Matrix Checks:** Camera, Mic, SMS, Call, Storage, Location, Keylogger, Shell, Inject.
 *   **Infrastructure Edge:** A sophisticated threat focused on financial target exploitation, automating crypto-wallet hijacking, web overlay phishing injection, and 2FA authenticator database harvesting.
 
-### 10. AhMyth 🛠️
+### 10. AhMyth 🛠️ (Free)
 > **Score: 9/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location.
 *   **Infrastructure Edge:** A lightweight open-source framework frequently used as an analytical baseline for background media exfiltration and continuous GPS polling loops.
 
 ---
 
-## 📊 Comprehensive RAT Matrix (A-Z)
+# 📊 Comprehensive RAT Matrix (A-Z)
 
 | Trojan Name | UI / Interface Type | Project Links / Repositories | Core Features & Permissions |
 | :--- | :--- | :--- | :--- |
@@ -172,7 +170,7 @@ The following ranking lists the top 10 Android Remote Access Trojans documented 
 
 ---
 
-## 🔱 Project Evolution & Acknowledgments
+# 🔱 Project Evolution & Acknowledgments
 
 This repository is an updated, restructured, and actively maintained evolution of the original project by [wishihab](https://github.com) (originally hosted at `wishihab/Android-RATList`). 
 
@@ -185,7 +183,7 @@ If you are looking for the original, legacy codebase or initial data layers, you
 
 ---
 
-## 🤝 Contributing to the New Directory
+# 🤝 Contributing to the New Directory
 
 Because this is a completely overhauled and expanded version of the database, your contributions are vital to keeping it accurate! 
 
