@@ -16,6 +16,7 @@ Please don't download the project if you won't be infected by Trojan, make sure 
 
 | Name | GUI | OS | Camera | Mic | SMS | Contact | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Clipboard | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature | 
 | ----- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | ------ |
+| Lab-RATS | ✔ | 🐧💻🍎 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ | https://github.com/K4N3CO-LABS/Lab-RATS | IPv6 traversal, Works on Newest Android, Screen Mirror/Control, Screen Blinding, Remote App Restart, Anti-Removal Sheild, Self Healing, Functional App Decoys. |
 | DroidJack | ✔ | 🐧💻 | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Whatsapp Reader |
 | AndroRAT | ✔ | 🐧💻 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | https://github.com/DesignativeDave/androrat https://github.com/karma9874/AndroRAT https://github.com/The404Hacking/AndroRAT | Streaming Video, Toast, Vibrate, Open URL |
 | SpyNote | ✔ | 🐧💻 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - | Bind app, Live mic recording, Phone info (IMEI, MAC, Carrier), Fun Panel |
