@@ -1,3 +1,6 @@
+# Remote Access Tool Trojan List - Android
+
+
 This repository contains a list of known Android Remote Access Trojans (RATs) (both free and paid) (and [Dataset](https://github.com/wishihab/Android-RAT-Dataset/)) along with their key features and required permissions. This information is intended solely for documentation and research purposes.
 
 **Contribution:** If you find any missing or incorrect information, please feel free to [open an issue](https://github.com/wishihab/Android-RATList/issues) or [submit a pull request](https://github.com/wishihab/Android-RATList/pulls). Your contributions are welcome!
