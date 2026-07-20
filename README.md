@@ -477,4 +477,8 @@ DO NOT download or install these projects unless you fully understand the risks.
   - SMS, Contact, Call
   - GPS, Sniff, Phishing
 
+- Lab RATS https://github.com/K4N3CO-LABS/Lab-RATS
+  -
+  -
+
 
