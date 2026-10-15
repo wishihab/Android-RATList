@@ -482,4 +482,7 @@ DO NOT download or install these projects unless you fully understand the risks.
   - GPS, Camera, Mic
   - Storage
 
+- Hirudo RAT
+  - SMS, Install, Notif, Stealer
+  - Screen Capture, Phishing
 
